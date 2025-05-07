@@ -1,0 +1,5 @@
+WIDTH = 800
+HEIGHT = 600
+UDP_IP = "0.0.0.0"
+UDP_PORT = 4210
+ASSET_DIR = "assets/"
